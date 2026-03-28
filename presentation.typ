@@ -683,8 +683,8 @@ Links: #link("https://typst.app/universe/package/touying/")\
   )[
     #set text(size: 40pt)
     ~\
-    Oh.\  //This talk\
-    No.\  //was typed,\
+    This talk\
+    was typed,\
     #fa-icon("face-smile-wink")\  //not designed.\
     ~
   ]

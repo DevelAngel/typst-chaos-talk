@@ -26,3 +26,24 @@ Optional: Vortrag "Typst - eine moderne Alternative zu TeX" (CLT2025) als Einfü
 Ein etwas ausführlichere Beschreibung findet sich im Ordner [short-paper](/short-paper/main.pdf).
 
 
+## Folien
+
+Die Präsentationsfolien liegen unter [presentation.pdf](/presentation.pdf).
+
+## Letter-Beispiel
+
+Das Briefbeispiel liegt unter [letter-example/letter.pdf](/letter-example/letter.pdf).
+
+## Paper-Beispiel
+
+Das Paper-Beispiel liegt unter [paper-example/paper.pdf](/paper-example/paper.pdf).
+
+## Cheat-Sheet-Beispiel
+
+Das Cheat-Sheet-Beispiel liegt unter [cheat-sheet-example/cheat-sheet.pdf](/cheat-sheet-example/cheat-sheet.pdf).
+
+## Präsentations-Beispiel
+
+Die Präsentationsbeispiele liegen unter:
+- [presentation-example/presentation-simple.pdf](/presentation-example/presentation-simple.pdf)
+- [presentation-example/presentation-more-complex.pdf](/presentation-example/presentation-more-complex.pdf)

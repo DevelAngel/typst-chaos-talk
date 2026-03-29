@@ -65,3 +65,9 @@ Requires [just](https://just.systems/).
 
 just is a command runner that invokes the appropriate `typst compile` command for each target, producing the corresponding PDF file.
 The PDFs are compiled with either the `a-2u` or `a-2a` PDF/A standard: `a-2u` requires Unicode text mapping, while `a-2a` additionally requires full accessibility tagging.
+
+## Presenting
+
+The slides can be presented with [pdfpc](https://pdfpc.github.io/), a PDF presenter tool that displays speaker notes on a second screen and supports timers and annotations.
+`just presentation` generates both `presentation.pdf` and `presentation.pdfpc` (the presenter notes file).
+Use `just presentation-pdfpc` to open the slides in pdfpc, or `just presentation-pdfpc-watch` to recompile automatically while editing.

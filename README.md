@@ -1,49 +1,48 @@
-# Chaos überwinden mit Typst
+# Overcoming Chaos with Typst
 
-## Beschreibung
+## Description
 
-Ein Dokument soll professionell aussehen.
-Doch dann das Chaos: hüpfende Seitenzahlen, wechselnde Schriften, inkonsistente Stichpunkte.
-Das kostet Zeit und Nerven.
-Typst bietet einen Ausweg: Es trennt Inhalt vom Layout.
-Wenn das Template einmal vorliegt, liegt der Fokus nur noch auf dem Inhalt.
+A document should look professional.
+But then comes the chaos: jumping page numbers, changing fonts, inconsistent bullet points.
+This costs time and nerves.
+Typst offers a way out: it separates content from layout.
+Once the template is in place, the focus is solely on the content.
 
-Dieser Vortrag baut auf dem Typst-Vortrag der CLT2025 auf und geht in die Praxis:
-In Live-Demos zeige ich, wie alltägliche Dokumente entstehen - mit konsistenter Formatierung.
+This talk builds on the Typst talk from CLT2025 and gets practical:
+In live demos I show how everyday documents are created - with consistent formatting.
 
-[Typst](https://typst.app/) ist ein modernes Open-Source-Textsatzsystem mit flacher Lernkurve.
-Ein praktischer Schritt zu digitaler Souveränität.
-Ziel: Verstehen und selbst ausprobieren wollen.
+[Typst](https://typst.app/) is a modern open-source typesetting system with a flat learning curve.
+A practical step towards digital sovereignty.
+Goal: understand it and want to try it yourself.
 
-## Vorkenntnisse
+## Prerequisites
 
-Keine Kenntnisse in Typst oder einer anderen Programmiersprache erforderlich.
+No knowledge of Typst or any other programming language required.
 
-Optional: Vortrag "Typst - eine moderne Alternative zu TeX" (CLT2025) als Einführung.
+Optional: talk "Typst - a modern alternative to TeX" (CLT2025) as an introduction.
 
-## Kurz-Paper
+## Short Paper
 
-Ein etwas ausführlichere Beschreibung findet sich im Ordner [short-paper](/short-paper/main.pdf).
+A more detailed description can be found in the [short-paper](/short-paper/main.pdf) folder.
 
+## Slides
 
-## Folien
+The presentation slides are available at [presentation.pdf](/presentation.pdf).
 
-Die Präsentationsfolien liegen unter [presentation.pdf](/presentation.pdf).
+## Letter Example
 
-## Letter-Beispiel
+The letter example is available at [letter-example/letter.pdf](/letter-example/letter.pdf).
 
-Das Briefbeispiel liegt unter [letter-example/letter.pdf](/letter-example/letter.pdf).
+## Paper Example
 
-## Paper-Beispiel
+The paper example is available at [paper-example/paper.pdf](/paper-example/paper.pdf).
 
-Das Paper-Beispiel liegt unter [paper-example/paper.pdf](/paper-example/paper.pdf).
+## Cheat Sheet Example
 
-## Cheat-Sheet-Beispiel
+The cheat sheet example is available at [cheat-sheet-example/cheat-sheet.pdf](/cheat-sheet-example/cheat-sheet.pdf).
 
-Das Cheat-Sheet-Beispiel liegt unter [cheat-sheet-example/cheat-sheet.pdf](/cheat-sheet-example/cheat-sheet.pdf).
+## Presentation Example
 
-## Präsentations-Beispiel
-
-Die Präsentationsbeispiele liegen unter:
+The presentation examples are available at:
 - [presentation-example/presentation-simple.pdf](/presentation-example/presentation-simple.pdf)
 - [presentation-example/presentation-more-complex.pdf](/presentation-example/presentation-more-complex.pdf)

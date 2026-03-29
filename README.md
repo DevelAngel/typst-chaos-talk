@@ -54,6 +54,9 @@ The presentation examples are available at:
 
 ## Building
 
+> [!TIP]
+> The presentation also covers workflows that work entirely without the command line.
+
 Requires [just](https://just.systems/).
 
 - `just` — build presentation

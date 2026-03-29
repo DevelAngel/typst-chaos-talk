@@ -25,7 +25,7 @@ Optional: talk "Typst - a modern alternative to TeX" (CLT2025) as an introductio
 
 ## Short Paper
 
-A more detailed description can be found in the [short-paper](/short-paper/main.pdf) folder.
+A more detailed description can be found in [short-paper/main.pdf](/short-paper/main.pdf).
 
 ## Slides
 

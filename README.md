@@ -1,5 +1,7 @@
 # Overcoming Chaos with Typst
 
+> Talk repo — slides, examples, and short paper about using Typst for consistent document formatting.
+
 ## Description
 
 A document should look professional.

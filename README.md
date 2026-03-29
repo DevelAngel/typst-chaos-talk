@@ -46,3 +46,20 @@ The cheat sheet example is available at [cheat-sheet-example/cheat-sheet.pdf](/c
 The presentation examples are available at:
 - [presentation-example/presentation-simple.pdf](/presentation-example/presentation-simple.pdf)
 - [presentation-example/presentation-more-complex.pdf](/presentation-example/presentation-more-complex.pdf)
+
+## Building
+
+Requires [just](https://just.systems/).
+
+- `just` — build presentation
+- `just all` — build everything
+- `just short-paper` — build short paper
+- `just presentation` — build presentation
+- `just letter-example` — build letter example
+- `just paper-example` — build paper example
+- `just cheat-sheet-example` — build cheat sheet example
+- `just presentation-example-simple` — build simple presentation example
+- `just presentation-example-more-complex` — build more complex presentation example
+
+just is a command runner that invokes the appropriate `typst compile` command for each target, producing the corresponding PDF file.
+The PDFs are compiled with either the `a-2u` or `a-2a` PDF/A standard: `a-2u` requires Unicode text mapping, while `a-2a` additionally requires full accessibility tagging.

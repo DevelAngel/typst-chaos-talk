@@ -1,6 +1,7 @@
 # Overcoming Chaos with Typst
 
 > Talk repo — slides, examples, and short paper about using Typst for consistent document formatting.
+> See the [CLT2026 talk page](https://chemnitzer.linux-tage.de/2026/de/programm/beitrag/339).
 
 ## Description
 
@@ -46,6 +47,7 @@ The cheat sheet example is available at [cheat-sheet-example/cheat-sheet.pdf](/c
 ## Presentation Example
 
 The presentation examples are available at:
+
 - [presentation-example/presentation-simple.pdf](/presentation-example/presentation-simple.pdf)
 - [presentation-example/presentation-more-complex.pdf](/presentation-example/presentation-more-complex.pdf)
 

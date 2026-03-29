@@ -1,5 +1,6 @@
 # Overcoming Chaos with Typst
 
+> [!NOTE]
 > Talk repo — slides, examples, and short paper about using Typst for consistent document formatting.
 > See the [CLT2026 talk page](https://chemnitzer.linux-tage.de/2026/de/programm/beitrag/339).
 

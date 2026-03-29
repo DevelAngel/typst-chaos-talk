@@ -25,10 +25,4 @@ Optional: Vortrag "Typst - eine moderne Alternative zu TeX" (CLT2025) als Einfü
 
 Ein etwas ausführlichere Beschreibung findet sich im Ordner [short-paper](/short-paper/main.pdf).
 
-Diese PDF kann mit folgendem Befehl erzeugt werden:
 
-```console
-pushd short-paper
-typst compile --pdf-standard a-2a main.typ
-popd
-```
